@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\birthdaycakecandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:birthdaycakecandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\minmaxsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:minmaxsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\staircase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:staircase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirthdayCakeCandles.cs",
+              "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\BirthdayCakeCandles.cs",
+              "RelativeDocumentMoniker": "BirthdayCakeCandles.cs",
+              "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\BirthdayCakeCandles.cs",
+              "RelativeToolTip": "BirthdayCakeCandles.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:03:02.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:43:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinMaxSum.cs",
+              "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\MinMaxSum.cs",
+              "RelativeDocumentMoniker": "MinMaxSum.cs",
+              "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\MinMaxSum.cs",
+              "RelativeToolTip": "MinMaxSum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:59:57.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staircase.cs",
+              "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Staircase.cs",
+              "RelativeDocumentMoniker": "Staircase.cs",
+              "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Staircase.cs",
+              "RelativeToolTip": "Staircase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:52:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlusMinus.cs",
+              "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\PlusMinus.cs",
+              "RelativeDocumentMoniker": "PlusMinus.cs",
+              "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\PlusMinus.cs",
+              "RelativeToolTip": "PlusMinus.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:49:31.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

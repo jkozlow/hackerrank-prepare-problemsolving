@@ -1,0 +1,14 @@
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\bin\Debug\net8.0\hackerrank-prepare-problemsolving.exe
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\bin\Debug\net8.0\hackerrank-prepare-problemsolving.deps.json
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\bin\Debug\net8.0\hackerrank-prepare-problemsolving.runtimeconfig.json
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\bin\Debug\net8.0\hackerrank-prepare-problemsolving.dll
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\bin\Debug\net8.0\hackerrank-prepare-problemsolving.pdb
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.AssemblyInfoInputs.cache
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.AssemblyInfo.cs
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.csproj.CoreCompileInputs.cache
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.dll
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\refint\hackerrank-prepare-problemsolving.dll
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.pdb
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.genruntimeconfig.cache
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\ref\hackerrank-prepare-problemsolving.dll
