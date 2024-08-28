@@ -12,3 +12,4 @@ C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\r
 C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.pdb
 C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.genruntimeconfig.cache
 C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\ref\hackerrank-prepare-problemsolving.dll
+C:\Users\JoshK\source\repos\hackerrank-prepare-problemsolving\obj\Debug\net8.0\hackerrank-prepare-problemsolving.sourcelink.json

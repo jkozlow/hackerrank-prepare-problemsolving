@@ -31,7 +31,7 @@ namespace hackerrank_prepare_problemsolving
         {
             public void Start()
             {
-                TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+                //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
                 int candlesCount = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -41,10 +41,10 @@ namespace hackerrank_prepare_problemsolving
 
                 Console.WriteLine(result);
 
-                textWriter.WriteLine(result);
+                //textWriter.WriteLine(result);
 
-                textWriter.Flush();
-                textWriter.Close();
+                //textWriter.Flush();
+                //textWriter.Close();
             }
         }
 

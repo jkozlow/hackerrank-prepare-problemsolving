@@ -13,8 +13,11 @@
             //MinMaxSum.Solution ms = new MinMaxSum.Solution();
             //ms.Start();
 
-            BirthdayCakeCandles.Solution bs = new BirthdayCakeCandles.Solution();
-            bs.Start();
+            //BirthdayCakeCandles.Solution bs = new BirthdayCakeCandles.Solution();
+            //bs.Start();
+
+            TimeConversion.Solution tc = new TimeConversion.Solution();
+            tc.Start();
 
         }
     }

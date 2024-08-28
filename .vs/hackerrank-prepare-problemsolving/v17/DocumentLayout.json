@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\timeconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:timeconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|c:\\users\\joshk\\source\\repos\\hackerrank-prepare-problemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39613B12-F9F2-4D6D-B5F9-12AE7391341A}|hackerrank-prepare-problemsolving.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,37 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TimeConversion.cs",
+              "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\TimeConversion.cs",
+              "RelativeDocumentMoniker": "TimeConversion.cs",
+              "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\TimeConversion.cs",
+              "RelativeToolTip": "TimeConversion.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:43:27.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BirthdayCakeCandles.cs",
               "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\BirthdayCakeCandles.cs",
               "RelativeDocumentMoniker": "BirthdayCakeCandles.cs",
               "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\BirthdayCakeCandles.cs",
               "RelativeToolTip": "BirthdayCakeCandles.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAPAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAjwC4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T22:03:02.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T17:43:24.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MinMaxSum.cs",
               "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\MinMaxSum.cs",
               "RelativeDocumentMoniker": "MinMaxSum.cs",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "MinMaxSum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T20:59:57.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T20:59:57.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Staircase.cs",
               "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\Staircase.cs",
               "RelativeDocumentMoniker": "Staircase.cs",
@@ -81,12 +97,11 @@
               "RelativeToolTip": "Staircase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T19:52:28.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T19:52:28.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlusMinus.cs",
               "DocumentMoniker": "C:\\Users\\JoshK\\source\\repos\\hackerrank-prepare-problemsolving\\PlusMinus.cs",
               "RelativeDocumentMoniker": "PlusMinus.cs",
@@ -94,8 +109,7 @@
               "RelativeToolTip": "PlusMinus.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAqwEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T17:49:31.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T17:49:31.261Z"
             }
           ]
         }
